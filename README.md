@@ -11,3 +11,5 @@
 4, statistical features: complex data with intuitive concise table view display;
 
 5, additional functions: increase user stickiness;
+
+![](https://github.com/sturt2000/Kunt/blob/master/3.png)
